@@ -10,7 +10,7 @@ Interpreter written in Python
   - pow
   - log
   - sin,cos,tg,ctg
-  - > , < , = , <= , =>
+  - < , > , = , <= , =>
   - Assignment (example: x=5)
   
 -Examples: 
