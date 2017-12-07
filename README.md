@@ -17,7 +17,7 @@ Interpreter written in Python
 >> 2+3*(1-4)+10*2 
   ->> 13
 
->> x = 3>5
+>> x = 3>5 \n
   ->> Memorized in dict (key = x : value = False)
 
 >> x==True
