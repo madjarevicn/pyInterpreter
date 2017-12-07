@@ -15,14 +15,19 @@ Interpreter written in Python
   
 -Examples: 
 >> 2+3*(1-4)+10*2 
->> 13
+  ->> 13
 
 >> x = 3>5
->> Memorized in dict (key = x : value = False)
+  ->> Memorized in dict (key = x : value = False)
 
 >> x==True
->> False
+  ->> False
 
 >> x=10
->> 2*x+3
->> 23
+  ->> 2*x+3
+  ->> 23
+
+
+Requirements: 
+  - pip install math
+  
